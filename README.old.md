@@ -1,1 +1,0 @@
-# uforse-okr-frontend
